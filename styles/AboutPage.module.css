@@ -1,0 +1,37 @@
+.imgHolder {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+}
+
+.imgHolder img {
+	background-color: var(--link-color);
+	border-radius: 50%;
+}
+
+.title {
+	margin-bottom: 10px;
+}
+
+.content {
+	display: flex;
+	font-size: 17px;
+	margin-top: 19px;
+	justify-content: center;
+	height: 100px;
+	width: 50%;
+	transform: translateX(60%);
+}
+
+.name {
+	font-weight: bold;
+	font-style: italic;
+	color: var(--accent-color);
+}
+
+.content a {
+	text-decoration: none;
+	color: var(--link-color);
+	font-style: italic;
+}

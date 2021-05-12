@@ -1,0 +1,17 @@
+.upper{
+    margin-top: 12px;
+    font-size: 17px;
+}
+
+.mail{
+    font-style: italic;
+}
+
+.content, .linkedin{
+    margin-top: 10px;
+}
+
+.linkedin a{
+    text-decoration: none;
+    color: var(--accent-color);
+}
