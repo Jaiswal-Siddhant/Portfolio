@@ -12,7 +12,7 @@ const GithubPage = () => {
 				<main className={styles.main}>
 					<div className={styles.grid}>
 						<a
-							href='https://github.com/siddhant-jaiswal-j/Login-page-with-MongoDb'
+							href='https://github.com/Jaiswal-Siddhant/Login-page-with-MongoDb'
 							className={styles.card}
 							target='_blank'>
 							<h2>Login Page with database [mongoDB] &rarr;</h2>
@@ -20,7 +20,7 @@ const GithubPage = () => {
 						</a>
 
 						<a
-							href='https://github.com/siddhant-jaiswal-j/REST-student-API'
+							href='https://github.com/Jaiswal-Siddhant/REST-student-API'
 							className={styles.card}
 							target='_blank'>
 							<h2>REST CRUD API &rarr;</h2>
@@ -31,7 +31,7 @@ const GithubPage = () => {
 						</a>
 
 						<a
-							href='https://github.com/siddhant-jaiswal-j/Dynamic-Weather-App-Express'
+							href='https://github.com/Jaiswal-Siddhant/Dynamic-Weather-App-Express'
 							className={styles.card}
 							target='_blank'>
 							<h2>Dynamic Weather App &rarr;</h2>
@@ -42,7 +42,7 @@ const GithubPage = () => {
 						</a>
 
 						<a
-							href='https://github.com/siddhant-jaiswal-j'
+							href='https://github.com/Jaiswal-Siddhant'
 							className={styles.card}
 							target='_blank'>
 							<h2>This portfolio &rarr;</h2>
