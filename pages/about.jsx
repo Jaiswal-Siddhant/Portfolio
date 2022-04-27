@@ -14,7 +14,7 @@ const AboutPage = () => {
 			<div className={styles.content}>
 				<div className={styles.main}>
 				I am&nbsp;<span className={styles.name}>Siddhant</span>, a
-				student of Second year CSE from&nbsp;
+				student of Third year CSE from&nbsp;
 				<Link href='http://mgmcen.ac.in/'>
 					MGM's college of Engineering
 				</Link>
